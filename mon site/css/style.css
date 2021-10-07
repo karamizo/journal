@@ -1,0 +1,57 @@
+h2.paragraphe{
+
+	color: #2E64FE ;
+
+	font-size: 40px;
+	
+	
+}
+body{
+	background-color: #FFFF00;
+}
+h1.veronica{
+
+	color:#fff;
+
+	font-size: 90px;
+
+	padding-left: 200px;
+
+	}
+
+
+
+
+	nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+	padding-right: 50px;
+	}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	text-decoration: none;
+	font-size: 40px;
+	background-color: #000000;
+	padding: 10px;
+}
+nav.menu-nav ul li.btn:hover a{
+	color: #000000;
+	background-color: white;
+	transition: 0.3s;all;
+}
+a.url{
+	font-size: 40px;
+	text-decoration: none;
+	background-color: #000000;
+	color: white;
+}
+a.url:hover{
+
+	
+	background-color: white;
+	color: #000000;
+	transition: 0.5s;all
+
+
+}
